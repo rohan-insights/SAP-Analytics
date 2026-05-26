@@ -1,3 +1,4 @@
+```bash
 Usage:  docker [OPTIONS] COMMAND
 
 A self-sufficient runtime for containers
@@ -103,3 +104,4 @@ Global Options:
 Run 'docker COMMAND --help' for more information on a command.
 
 For more help on how to use Docker, head to https://docs.docker.com/go/guides/
+```
